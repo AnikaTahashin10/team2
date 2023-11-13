@@ -1,6 +1,3 @@
-This is a git testing group. there is wen, iman, hend, pushpa and anika
-We are now a project team2.
-
 Task  
 -Create a new GH repository for testing
 -Create local repository for testing
